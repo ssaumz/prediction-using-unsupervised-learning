@@ -3,7 +3,7 @@ The Sparks Foundation - Data Science and Business Analytics Internship.
 ## Prediction using Unsupervised ML 
 
 ## Project Overview
-This project aims to predict the optium number of clusters and representing it visually. The project involves data preprocessing, exploratory data analysis (EDA), and training a machine learning model for prediction.
+This project aims to predict the optimum number of clusters and representing it visually. The project involves data preprocessing, exploratory data analysis (EDA), and training a machine learning model for prediction.
 
 ## Technologies Used
 Python: Programming language used for data manipulation and visualization.
